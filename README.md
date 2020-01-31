@@ -1,2 +1,1 @@
-# patterns
-Design pattern diagrams.
+# Publisher/Subscriber design pattern
